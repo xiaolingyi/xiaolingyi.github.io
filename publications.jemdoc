@@ -1,3 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 
 == Publications
+
+- [NNASIM: an Efficient Event-Driven Simulator for DNN Accelerators with Accurate Timing and Area Models] \n
+*Xiaoling Yi*, Jiangnan Yu, Zheng Wu, Xiankui Xiong, Dong Xu, Chixiao Chen, Jun Tao, Fan Yang \n
+/ IEEE International Symposium on Circuits and Systems/ (ISCAS 2022) (Accepted)
+
+- [An Automated Compiler for RISC-V Based DNN Accelerator] \n
+Zheng Wu, Wuzhen Xie, *Xiaoling Yi*, haotao yang, ruiyao pu, Xiankui Xiong, Dong Xu, Chixiao Chen, Jun Tao, Fan Yang \n
+/ IEEE International Symposium on Circuits and Systems/ (ISCAS 2022) (Accepted)
