@@ -5,17 +5,17 @@
 
 - Airline crew scheduling optimization model
 
-My teamates and I implemented a complete airline crew scheduling model using integer programming and solved the problem with Gurobi.
+  My teamates and I implemented a complete airline crew scheduling model using integer programming and solved the problem with Gurobi.
 
 - Human-Machine fight in Connect6
 
-I implemented the game with a intelligent machine player via Haskell and designed a GUI to improve user experiences (Exploited Haskell library: wxWidgets).
+  I implemented the game with a intelligent machine player via Haskell and designed a GUI to improve user experiences (Exploited Haskell library: wxWidgets).
 
 - Mine Game developed on FDE board
 
-I designed the game via Verilog and implement it on the FDE FPGA board developed by Fudan University. I designed a Matlab GUI for the game and used hardware-software codesign to manipulate the board.
+  I designed the game via Verilog and implement it on the FDE FPGA board developed by Fudan University. I designed a Matlab GUI for the game and used hardware-software codesign to manipulate the board.
 
 - Real-Time Temperature and Humidity Monitoring System Design
 
-My teamates and I designed the system leveraging a RISCV SoC named HBird-E203-SoC on the Arty Board and Arduino hardware platform. We deployed the FreeRTOS for Monitoring Application.
+  My teamates and I designed the system leveraging a RISCV SoC named HBird-E203-SoC on the Arty Board and Arduino hardware platform. We deployed the FreeRTOS for Monitoring Application.
 
